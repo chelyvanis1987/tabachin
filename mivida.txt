@@ -1,0 +1,7 @@
+omo contenido del script pueden utilizarse múltiples elementos (comandos, variables, funciones, estructuras de control, comentarios,...) que se analizarán en el siguiente apartado.
+
+El "shebang" permite especificar el intérprete de comandos con el que deseamos que sea interpr resto del script cuando se usa invocación implícita (ver más adelante). La sintaxis de esta línea es la secuencia #! seguida del ejecutable del
+
+
+
+otras cosas que tengo que decir
